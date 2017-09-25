@@ -1,0 +1,29 @@
+{
+  "name": "node-handlebars",
+  "version": "1.0.0",
+  "description": "demo node express and handlebars",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfannas/node-handlebars.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "handlebars"
+  ],
+  "author": "Alfan Nasrulloh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alfannas/node-handlebars/issues"
+  },
+  "homepage": "https://github.com/alfannas/node-handlebars#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
